@@ -30,19 +30,19 @@
       
    <h2>4 W's and 1 H
       
-   <h5> WHO
+   <h3> WHO
         <h5>Users who want their files to be secured.
         
-   <h5> WHAT
+   <h3> WHAT
         <h5>Many users find it difficult to store their files in their systems privately. 
         
-   <h5> WHEN
+   <h3> WHEN
         <h5>The problem began when users what to keep their files secured where no one can access them without the password.
        
-   <h5> WHERE
+   <h3> WHERE
         <h5>This problem is for all users
         
-   <h5> HOW
+   <h3> HOW
         <h5>The problem may be ineffective file management . Hence causes time wastage.
         
    <h2> Detail Requirements
