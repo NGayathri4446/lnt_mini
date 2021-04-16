@@ -2,29 +2,29 @@
 
   <h2>Introduction
   
-     <h5>The Personal Diary Management System is an application used to generate personal diary records and to add and update it. 
+  <h5>The Personal Diary Management System is an application used to generate personal diary records and to add and update it. 
   
-     <h5>It is necessary to provide security to personal files to maintain the privacy of user. Here the files of user are stored in database and can be retrived easily with the help of password.
+   <h5>It is necessary to provide security to personal files to maintain the privacy of user. Here the files of user are stored in database and can be retrived easily with the help of password.
   
  <h2>Features
   
-      1. Proper Log-in systems
+  <h5>1. Proper Log-in systems
       2. Proper Validatons
       3. Password Protected and Password System in Each Sections.
       4. High Security
       
   <h2> User functions
       
-      <h5>The basic user defined used in the project are:
+   <h5>The basic user defined used in the project are:
       
-      <h5> 1. int password() – contains/manages/handles password protection
+   <h5> 1. int password() – contains/manages/handles password protection
       <h5> 2. void addrecord() – to add new diary record
       <h5> 3. void viewrecord() – to view added record in list
       <h5> 4. void editrecord() – to modify and update an added record
       <h5> 5. void editpassword() – to modify/change a password
       <h5> 6. void deleterecord() – to delete or remove a record permanently from system file
 
-      <h5> In this project, you need to enter a password to view, edit or delete record. 
+   <h5> In this project, you need to enter a password to view, edit or delete record. 
       <h5> Password is not required to view the main menu or to add record.
       <h5> We have used password in other mini projects in Code with C; what’s little different in this project is that you can edit the password within the application i.e., after executing or upon running the project.
       
