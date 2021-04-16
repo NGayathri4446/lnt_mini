@@ -10,8 +10,14 @@ Personal Diary Management System is based on concept to generate Personal Daily 
 The basic user-defined functions used in this project are listed below:
 
 int password() – contains/manages/handles password protection
+
 void add_record() – to add a new diary record
+
 void view_record() – to view added record in list
+
 void modify_record() – to modify and update an added record
+
 void edit_password() – to modify/change a password
+
 void delete_record() – to delete or remove a record permanently from system file
+
