@@ -27,7 +27,46 @@ typedef enum error_t{
     ID_EXISTS=5
 }error_t;
 
-typedef struct welcome_message
+typedef struct diary
+{
+    FILE *fp;
+    char press;
+    int num;
+} diary;
+ 
+
+/**
+ * @brief prints welcome message
+ * 
+ * welcome to our diary
+ * @return zero  
+ */
+void welcome_message (void);
+
+/**
+ * @brief function adds files 
+ * 
+ * @param diary struct object, number of files
+ * @return zero
+ */
+int insert(void);
+
+/**
+ * @brief function to append records from where the user left
+ *
+ * @return returns zero 
+ */
+int append(void);
+ /**
+ * @brief function to view records 
+ *
+ * @return returns zero
+ */
+
+int view(void);
+#endif
+
+
 
 
 
