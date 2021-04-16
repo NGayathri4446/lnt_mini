@@ -49,7 +49,7 @@
    
    <h2> High level Requirements
    
-   <table>
+   <h5><table>
     <tr> 
       <th> ID </th>
       <th> Description </th>
